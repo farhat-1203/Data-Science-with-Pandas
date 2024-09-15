@@ -1,0 +1,10 @@
+Segment,Country, Product , Units Sold , Manufacturing Price , Sale Price , Gross Sales 
+Government,Canada, Carretera ,1681,3,20,32370
+Government,, Carretera ,,3,20,
+Midmarket,France, Carretera ,1233,3,15,32670
+,,,,,,
+Midmarket,Mexico, Carretera ,2470,,15,
+Government,Germany, Carretera ,1513,3,350,25947
+Midmarket,Germany,,921,5,15,13815
+Channel Partners,Canada, Montana ,2518,5,12,
+Government,, Montana ,,5,20,37980
